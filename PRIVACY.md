@@ -1,9 +1,8 @@
-
 # ECUAEXPLORE - App Móvil de Turismo Ciudadano
 
 ## Descripción
 
-La empresa de desarrollo **El Búho** presenta *ECUAEXPLORE*, una aplicación móvil orientada al turismo ciudadano. La app permite a los usuarios explorar y compartir sitios turísticos en Ecuador a través de un microblog interactivo, reseñas y fotografías.
+La empresa de desarrollo **IsaacQ** presenta *ECUAEXPLORE*, una aplicación móvil orientada al turismo ciudadano. La app permite a los usuarios explorar y compartir sitios turísticos en Ecuador a través de un microblog interactivo, reseñas y fotografías.
 
 ---
 
@@ -25,21 +24,23 @@ La empresa de desarrollo **El Búho** presenta *ECUAEXPLORE*, una aplicación m�
 - Puede visualizar contenido (lugares, fotos y reseñas)
 - No puede publicar entradas ni responder
 
+![Imagen de WhatsApp 2025-07-10 a las 20 22 49_684c5136](https://github.com/user-attachments/assets/245e3938-b783-42aa-87fa-d32a24e8d79e)
+
+![Imagen de WhatsApp 2025-07-10 a las 20 22 49_040ec65f](https://github.com/user-attachments/assets/4667830b-7de7-4bd3-87da-8af0cb691442)
+
+
 ### Publicador
 
 - Puede crear lugares turísticos
 - Puede subir fotos y agregar ubicaciones
 - Puede escribir y responder reseñas
 
----
+![Imagen de WhatsApp 2025-07-10 a las 20 25 59_4e616c57](https://github.com/user-attachments/assets/004552b6-bd37-4e1b-8810-16fd92d6ae76)
 
-## Tecnologías utilizadas
+![Imagen de WhatsApp 2025-07-10 a las 20 26 00_39f654e6](https://github.com/user-attachments/assets/325a518a-a36e-467c-950e-ba8df8b381f1)
 
-- **Frontend**: Flutter
-- **Backend**: Supabase
-- **Autenticación**: Supabase Auth
-- **Almacenamiento**: Supabase Storage (para imágenes)
-- **Base de datos**: Supabase Postgres
+![Imagen de WhatsApp 2025-07-10 a las 20 26 00_7653bc49](https://github.com/user-attachments/assets/760a3dc0-3c45-4c3a-aabf-02474b2dd33d)
+
 
 ---
 
@@ -75,11 +76,6 @@ La empresa de desarrollo **El Búho** presenta *ECUAEXPLORE*, una aplicación m�
        ├── location_service.dart
 ```
 
-Incluye además:
-
-- Documentación técnica
-- Capturas de pantalla (adjuntar en carpeta `/screenshots`)
-
 ---
 
 ## Entregables
@@ -92,23 +88,64 @@ Incluye además:
 ## Capturas sugeridas
 
 - Registro e inicio de sesión
+  
   ![IMG-20250708-WA0028](https://github.com/user-attachments/assets/a4abf36c-d4cd-465e-af9e-abe276bae833)
+  
   ![IMG-20250708-WA0027](https://github.com/user-attachments/assets/21745699-42f0-4df0-88b3-a1e1dc37faa7)
 
+  
 - Pantalla principal (lista de lugares)
-  <img width="160" alt="imagen lugares " src="https://github.com/user-attachments/assets/2244a662-71db-410e-8f3c-37ef6acba098" />
+  
+  ![Imagen de WhatsApp 2025-07-10 a las 20 26 00_39f654e6](https://github.com/user-attachments/assets/758f971d-39f3-4cb5-8e09-235587d9c31e)
+
 
 - Formulario para agregar lugar
-  ![IMG-20250708-WA0025](https://github.com/user-attachments/assets/cb249ba0-f047-4108-ac73-ce1644016c26)
+  
+  ![Imagen de WhatsApp 2025-07-10 a las 20 46 33_f1829379](https://github.com/user-attachments/assets/739c8de6-ba70-4143-ab28-3be5d24ed575)
+
 
 - Vista de detalle de lugar (reseñas y fotos)
-  <img width="163" alt="imagen lugar" src="https://github.com/user-attachments/assets/9db512fa-b402-4a0b-95fd-60a2fa7f3daf" />
-  ![IMG-20250708-WA0026](https://github.com/user-attachments/assets/fc662c7f-48c4-4204-8490-d3ccf6979abe)
+  
+  ![Imagen de WhatsApp 2025-07-10 a las 20 26 00_7653bc49](https://github.com/user-attachments/assets/2be4ecab-d973-47f3-b238-0d8c07a76dae)
 
 - Respuesta a reseñas
-  ![IMG-20250708-WA0024](https://github.com/user-attachments/assets/b3b27993-9ad0-4b05-ae13-da50ac73928f)
-  ![IMG-20250708-WA0023](https://github.com/user-attachments/assets/5f3d2c35-0bed-4c33-b5b9-967eba2e8bf1)
-  ![IMG-20250708-WA0029](https://github.com/user-attachments/assets/246a5042-54c5-4f58-baba-33e22a2061c7)
+  
+  ![Imagen de WhatsApp 2025-07-10 a las 20 25 59_4e616c57](https://github.com/user-attachments/assets/2868b1c4-78bb-4ca0-a354-84d09eb2b129)
+
+
+---
+
+## Tecnologías utilizadas
+
+- **Frontend**: Flutter
+  
+  <img width="1923" height="1012" alt="image" src="https://github.com/user-attachments/assets/26c8c551-c104-49e4-b47d-f4c430246144" />
+
+
+- **Backend**: Supabase
+  
+  <img width="1923" height="875" alt="image" src="https://github.com/user-attachments/assets/bab21662-a569-485f-b1de-a2db28c8a669" />
+
+  
+- **Autenticación**: Supabase Auth
+
+  <img width="1923" height="871" alt="image" src="https://github.com/user-attachments/assets/ec128db6-c1c4-4d82-836d-35903a6f0e01" />
+
+  
+- **Almacenamiento**: Supabase Storage (para imágenes)
+
+  <img width="1923" height="881" alt="image" src="https://github.com/user-attachments/assets/733c67a3-1441-445a-b745-a786cd14f7ae" />
+
+  
+- **Base de datos**: Supabase Postgres
+  
+  <img width="1923" height="878" alt="image" src="https://github.com/user-attachments/assets/0e0519fb-0ed1-44dc-9b2e-5899df4ef2ea" />
+  
+  <img width="1923" height="880" alt="image" src="https://github.com/user-attachments/assets/201b4601-2d21-4dfd-9402-ab7a1c05674d" />
+  
+  <img width="1923" height="879" alt="image" src="https://github.com/user-attachments/assets/4074cb98-dd9c-4cd0-8aed-5125c5afa097" />
+  
+  <img width="1923" height="881" alt="image" src="https://github.com/user-attachments/assets/f4030daa-cc6f-4809-ba1b-b9dc97161a64" />
 
 ---
 
@@ -116,7 +153,7 @@ Incluye además:
 
 ### Declaración general
 
-La aplicación **Ecuaexplore**, desarrollada por **El Búho** (Isaac Quinapallo), se compromete a proteger la privacidad de sus usuarios. La presente política explica cómo se recopila, utiliza y protege la información proporcionada.
+La aplicación **Ecuaexplore**, desarrollada por **IsaacQ** (Isaac Quinapallo), se compromete a proteger la privacidad de sus usuarios. La presente política explica cómo se recopila, utiliza y protege la información proporcionada.
 
 ### Información recopilada
 
@@ -153,7 +190,7 @@ La aplicación **Ecuaexplore**, desarrollada por **El Búho** (Isaac Quinapallo)
 
 ### Derechos del usuario
 
-- Puede solicitar eliminación de su cuenta y datos escribiendo a isaacq.dev@gmail.com.
+- Puede solicitar eliminación de su cuenta y datos escribiendo a isaac.quinapallo@epn.edu.ec
 
 ### Cambios
 
@@ -161,7 +198,7 @@ La aplicación **Ecuaexplore**, desarrollada por **El Búho** (Isaac Quinapallo)
 
 ### Contacto
 
-isaacq.dev@gmail.com
+isaac.quinapallo@epn.edu.ec
 
 ---
 
